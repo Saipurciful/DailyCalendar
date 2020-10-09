@@ -12,10 +12,15 @@ This project is using Moment.js library (third party APIs) to display current da
 
     <img src="first.png"> <br>
 
-*  The project using Moment.js library (third party APIs) to display current date and time in the browser, which the time block is color-coded to indicate whether it is in the past (grey color), present (red color) or future (green color). 
+*  The project using Moment.js library (third party APIs) to display current date and time in the browser, which the time block is color-coded to indicate whether it is in the past (grey color), present (red color) or future (green color). <br>
+
+    <img src="time.png"><br>
+
 *  The user will be able to enter an event in each time block and click save the event. Once the user refresh the page, the saved events persist. <br>
-<img src="add.png"> <br>
-<img src="save.png">
+
+    <img src="add.png"> <br>
+
+    <img src="save.png"><br>
 
 ## How to Create The Project.
 * Create HTML file containing the webpage details, such as Jumbotron for header, time blocks, etc.
