@@ -2,9 +2,9 @@
 
 ## About The Project.
 
-    The purpose of this project is to create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+The purpose of this project is to create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-    This project is using Moment.js library (third party APIs) to display current date and time in the browser.
+This project is using Moment.js library (third party APIs) to display current date and time in the browser.
 
 ## Project Criteria.
 
